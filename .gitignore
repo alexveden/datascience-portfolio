@@ -100,3 +100,5 @@ ENV/
 # mypy
 .mypy_cache/
 .idea/
+/sample-project-ml/vizualization.py
+/sample-project-ml/pipelines.py
